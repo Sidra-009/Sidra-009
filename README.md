@@ -3,7 +3,7 @@
 - 💬 Ask me about **Python, Java, Web Development, Django, AI/ML, SQL, Unity.**
 - 📩 Reach Me Through: **sidrasaqlain11@gmail.com**
 - ⚡ Fun Fact: I enjoy **solving coding problems, making games, watching football, and continuously growing as a developer.**
-- 🎓 Studying **Bs. Computer Science** from **Sir Syed University of Engineering and Technology (SSUET), Karachi.**
+- 🎓 Studying **Bs. Data Science** from **Sir Syed University of Engineering and Technology (SSUET), Karachi.**
 
 ---
 
