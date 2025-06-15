@@ -25,17 +25,20 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-00B1E7?style=for-the-badge&logo=autodesk&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidrasaqlain&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidrasaqlain&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical" width="300"/>
 
 ---
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=sidrasaqlain&theme=onedark&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=onedark&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
