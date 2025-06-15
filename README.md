@@ -9,7 +9,7 @@
 
 ## 🔗 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidrabibi45?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -31,6 +31,15 @@
 
 ---
 
+## 🛠️ Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical" width="300"/>
@@ -39,6 +48,13 @@
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=onedark&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📂 Data Specializations:
+- 📌 **Data Mining**
+- 📌 **Data Analysis**
+- 📌 **Data Science Methodologies**
 
 ---
 
