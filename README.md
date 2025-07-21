@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Sidra Saqlain
-
-## 👩‍💻 About Me
+## 👩‍💻 About Me:
 - 🌱 I'm currently learning **AI/ML, Web Development, Data Engineering.**
 - 💬 Ask me about **Python, Java, Web Development, Django, AI/ML, SQL.**
 - 📩 Reach Me Through: **sidrasaqlain11@gmail.com**
@@ -9,14 +7,12 @@
 
 ---
 
-## 🔗 Socials
-
+## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidrabibi45?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-## 💻 Tech Stack
-
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,8 +31,7 @@
 
 ---
 
-## 🛠️ Tools
-
+## 🛠️ Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -45,47 +40,23 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sidra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical)
+## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical" width="300"/>
 
 ---
 
-## 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=onedark&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📂 Data Specializations
-
+## 📂 Data Specializations:
 - 📌 **Data Mining**
 - 📌 **Data Analysis**
 - 📌 **Data Science Methodologies**
 
 ---
 
-## 💬 Random Dev Quote
-
+## 💬 Random Dev Quote:
 > "A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds." – Ted Nelson
-
----
-
-## 📚 Some of My Repositories & Commits (Top Languages Highlighted)
-
-| Repository | Description | Primary Language | Commits | Last Updated |
-|------------|-------------|------------------|---------|--------------|
-| [Data-Mining-Project](https://github.com/Sidra-009/Data-Mining-Project) | Data mining course project | Python | ![Commits](https://img.shields.io/github/commit-activity/m/Sidra-009/Data-Mining-Project?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/Sidra-009/Data-Mining-Project?style=flat-square) |
-| [Java-Banking-System](https://github.com/Sidra-009/Java-Banking-System) | Banking system project in Java | Java | ![Commits](https://img.shields.io/github/commit-activity/m/Sidra-009/Java-Banking-System?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/Sidra-009/Java-Banking-System?style=flat-square) |
-| [Web-Development-Portfolio](https://github.com/Sidra-009/Web-Development-Portfolio) | Website projects in HTML/CSS/JS | HTML | ![Commits](https://img.shields.io/github/commit-activity/m/Sidra-009/Web-Development-Portfolio?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/Sidra-009/Web-Development-Portfolio?style=flat-square) |
-
-> *Note:* You can add more repositories as needed.
-
----
-
-Feel free to explore my GitHub to see more projects and contributions:  
-👉 [https://github.com/Sidra-009](https://github.com/Sidra-009?tab=repositories)
-
----
