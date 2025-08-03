@@ -75,3 +75,63 @@ https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram
 <div align="center" style="margin-top: 30px;"> <a href="https://github.com/Sidra-009?tab=repositories"> <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repos"> </a> </div> ``
         
 me = SidraBibi()
+
+this not include gif i have given to you ans also very bad results 
+ok give me the final one including if also mobile responsive
+Here's your final, polished GitHub README.md with all requested elements including the GIF and mobile responsiveness:
+
+markdown
+# 👋 Hi, I'm Sidra Bibi | Data Science Enthusiast
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sidra-009&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
+</div>
+
+🎓 **BS Data Science** student at **SSUET, Karachi**  
+🔭 Passionate about **AI/ML, Data Analysis & Visualization**  
+💡 Skilled in **Python, SQL, and Machine Learning algorithms**  
+📫 **Reach me:** sidrasaqlain11@gmail.com  
+📸 **Instagram:** [@sidra__saqlain](https://instagram.com/sidra__saqlain)
+
+---
+
+## 🚀 About Me
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Sidra Bibi"
+        self.education = "BS Data Science @ SSUET"
+        self.skills = {
+            "Programming": ["Python", "Java", "SQL", "Assembly"],
+            "Data Science": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow"],
+            "Visualization": ["Matplotlib", "Seaborn", "Power BI"],
+            "Tools": ["Jupyter", "Linux", "Git", "VS Code"]
+        }
+        self.interests = ["Machine Learning", "Data Engineering", "Problem Solving"]
+        
+    def __str__(self):
+        return "Aspiring Data Scientist creating impactful solutions through data"
+        
+me = DataScientist()
+print(me)
+<div align="center"> <img src="https://i.gifer.com/JXA0.gif" alt="Sidra coding" style="width:100%; max-width:600px; border-radius:8px; margin:20px 0;"> <p>When I'm in the coding zone ☕💻</p> </div>
+🔧 Technical Skills
+📚 Programming Languages
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> </div>
+📊 Data Science Stack
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> </div>
+⚙️ Tools & Platforms
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> </div>
+📊 GitHub Analytics
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;"> <img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="max-width: 100%;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="max-width: 100%;"> </div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=onedark&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,A,B,C" alt="GitHub Trophies" style="max-width: 100%;"> </div>
+🌟 Featured Projects
+Data Mining Project - Python implementations of data mining algorithms
+
+Java Banking System - OOP-based banking application
+
+Web Development Portfolio - Collection of web projects
+
+📬 Connect With Me
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <a href="https://www.linkedin.com/in/sidrabibi45"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:sidrasaqlain11@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://www.instagram.com/sidra__saqlain"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="https://github.com/Sidra-009"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
+<div align="center"> <img src="https://media.istockphoto.com/id/1211151616/vector/data-science.jpg?s=612x612&w=0&k=20&c=zFCFnATgN1Za5gBVO9tb8Jd4HbDVWqjL11A0SVCnRXo=" alt="Data Science" style="width:100%; max-height:300px; border-radius:8px; margin-top:20px;"> </div> ```
