@@ -111,3 +111,10 @@
   <br/>
   <em>When I'm in the zone 💻☕</em>
 </p>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <em>"The best way to predict the future is to invent it."</em><br>
+  — <strong>Alan Kay</strong> 🔮
+</div>
