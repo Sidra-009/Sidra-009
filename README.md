@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Sidra Bibi
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5wZ3R4eGxwY2N6Z2V0Y2VxZGJ0M2VhZ3V6Z3V5dWxqY2N1eGZ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7JIW0B2O8QqGc/giphy.gif" alt="Sidra coding as a data scientist" width="400">
+  <p>Sidra coding on a rainy night ☕️</p>
+</div>
 ## 👩‍💻 About Me
 - 🌱 I'm currently learning **AI/ML, Web Development, Data Engineering.**
 - 💬 Ask me about **Python, Java, Web Development, Django, AI/ML, SQL.**
