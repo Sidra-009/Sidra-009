@@ -1,108 +1,97 @@
-# 👋 Hi, I'm Sidra Bibi
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sidra-009&color=blue&style=flat)
+<h1 align="center">Hi 👋, I'm Sidra Bibi</h1>
+<h3 align="center">A passionate Data Science student & Web Developer from Pakistan</h3>
 
-🎓 **BS Data Science student** at **Sir Syed University of Engineering and Technology (SSUET), Karachi**  
-👩‍💻 Passionate about **AI/ML, Web Development, Data Engineering**  
-📧 **Reach Me**: sidrasaqlain11@gmail.com  
-📸 **Instagram**: [@sidra__saqlain](https://www.instagram.com/sidra__saqlain?igsh=ZG03Y2ZscG96Ym1v)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidra11&label=Profile%20views&color=0e75b6&style=flat" alt="sidra11" /> </p>
 
 ---
 
-![Data Science Banner](https://media.istockphoto.com/id/1211151616/ko/%EB%B2%A1%ED%84%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.jpg?s=170667a&w=0&k=20&c=zFCFnATgN1Za5gBVO9tb8Jd4HbDVWqjL11A0SVCnRXo=)
+## 👩‍💻 About Me:
+
+- 🌱 I'm currently learning **AI/ML, Web Development, Data Engineering**
+- 💬 Ask me about **Python, Java, HTML/CSS, SQL, Excel, Power BI**
+- 📫 How to reach me: **sidrasaqlain11@gmail.com**
+- 📍 Location: **Karachi, Pakistan**
+- 🎓 CGPA: **3.53**
+- 🎮 Hobbies: **Football, Coding, Gaming Projects**
 
 ---
 
-## 👩‍💻 About Me
+## 💼 Tech Stack
 
-- 🌱 Currently learning **AI/ML, Web Development, Data Science**
-- 💬 Ask me about **Python, Java, SQL, Web Development, Django, Flask, AI/ML**
-- 📊 Also familiar with **Data Structures & Algorithms, Assembly Language, Jupyter Notebook**
-- 🐧 Comfortable using **Linux & Ubuntu**
-- ⚡ Fun Fact: I enjoy **solving coding problems, making games, watching football**, and continuously growing as a developer.
-
----
-
-## 🔗 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidrabibi45?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidra__saqlain?igsh=ZG03Y2ZscG96Ym1v)
-
----
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-00B1E7?style=for-the-badge&logo=autodesk&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maya-4A90E2?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</p>
 
 ---
 
-### 📚 Libraries
+## 🔭 Projects
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2D3E50?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+- 🏁 **Desert Car Race Game** - Unity + Maya (Cholistan theme)
+- 🏦 **Banking System in Java** - OOP-based with GUI (5-page application)
+- 🍰 **Delight Confection Hub Website** - HTML/CSS, Responsive Web Design
+- 📊 **Rainfall & Housing Data Analysis** - Python, Pandas, Seaborn
+- 🤖 **Brand Sentiment Monitor (AI/NLP)** - Tracking brand reputation
 
 ---
 
-## 🧰 Tools
+## 🎓 Education
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+- 🎓 BS Data Science - **Sir Syed University of Engineering & Technology (SSUET)**
+- 📚 Completed 2 semesters
+- 🏅 NAVTTC Certified in Data Mining & Tools (Python, SQL, XAMPP)
+
+---
+
+## 🏆 Certifications
+
+- ✅ **NAVTTC - Data Mining**
+- ✅ **Freelancing via Digiskills**
+- ✅ **Gaming & Animation (Summer Course)**
+
+---
+
+## 🧠 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidra11&show_icons=true&locale=en&theme=tokyonight" alt="sidra11" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidra11&theme=tokyonight" alt="sidra11" />
+</p>
 
 ---
 
 ## 🎞️ Developer Vibes
 
-![Dev GIF](https://i.gifer.com/Kvtf.mp4)
+<img src="https://media.giphy.com/media/JXA0vQz4zGC1wBzNQW/giphy.gif" width="100%" alt="Developer GIF" />
 
 ---
 
-## 📂 Data Specializations
+## 📫 Let's Connect
 
-- 📌 **Data Mining**
-- 📌 **Data Analysis**
-- 📌 **Data Science Methodologies**
-
----
-
-## 📊 GitHub Stats
-
-![Sidra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical)
+<a href="mailto:sidrasaqlain11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/sidra-bibi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚽ Hobbies & Interests
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=onedark&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+- Watching and playing **football**
+- Solving **coding problems**
+- Creating **games**
+- Exploring **AI/ML tools**
+- Designing **web interfaces**
+- Learning through **open-source projects**
 
 ---
-
-## 💬 Random Dev Quote
-
-> "A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds." – Ted Nelson
-
----
-
-
-🌟 **Explore more on my GitHub:** [https://github.com/Sidra-009](https://github.com/Sidra-009?tab=repositories)
