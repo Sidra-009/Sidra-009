@@ -46,10 +46,10 @@
 ### 🛠 Tools & Platforms
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![MySql](https://img.shields.io/badge/MySql-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VVM](https://img.shields.io/badge/VVM-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![MIPS](https://img.shields.io/badge/MIPS-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![VVM](https://img.shields.io/badge/VVM-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
+![MIPS](https://img.shields.io/badge/MIPS-00599C?style=flat-square&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
