@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sidra Bibi | Data Science Student
+# 👋 Hi, I'm Sidra Saqlain | Data Science Student
 
 <p align="center">
   <img src="https://media.istockphoto.com/id/1211151616/ko/%EB%B2%A1%ED%84%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.jpg?s=170667a&w=0&k=20&c=zFCFnATgN1Za5gBVO9tb8Jd4HbDVWqjL11A0SVCnRXo=" alt="Data Science Banner" width="100%" style="max-height:250px; border-radius:10px;" />
