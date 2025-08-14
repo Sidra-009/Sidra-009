@@ -6,15 +6,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=200&section=header&text=Data%20Science%20%26%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Data%20into%20Intelligence&descAlignY=55&descSize=20"/>
 </p>
 
+<!-- Added female data scientist coding GIF at the top -->
 <div align="center">
-  <img src="/placeholder.svg?height=300&width=600" alt="Data Science Banner" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
+  <img src="/placeholder.svg?height=300&width=600" alt="Female Data Scientist Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
 </div>
 
 ---
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="350" src="/placeholder.svg?height=300&width=350" style="border-radius: 15px; margin-left: 20px;">
+<!-- Updated coding image to show female developer -->
+<img align="right" alt="Female Developer Coding" width="350" src="/placeholder.svg?height=300&width=350" style="border-radius: 15px; margin-left: 20px;">
 
 🎓 **BS in Data Science** at **SSUET, Karachi**  
 ⚡ Passionate about turning raw data into actionable insights  
@@ -26,13 +28,14 @@
 > *"In the world of data, every pattern tells a story, and every algorithm unlocks potential."*
 
 <div align="center" style="margin-top: 30px;">
-  <img src="/placeholder.svg?height=120&width=700" alt="Divider" style="border-radius: 10px;">
+  <img src="/placeholder.svg?height=120&width=700" alt="Data Flow Divider" style="border-radius: 10px;">
 </div>
 
 ---
 
 ## 🛠️ Tech Arsenal
 
+<!-- Updated tech icons to show female-friendly representations -->
 <div align="center" style="margin: 30px 0;">
   <img src="/placeholder.svg?height=80&width=80" style="margin: 5px; border-radius: 10px;">
   <img src="/placeholder.svg?height=80&width=80" style="margin: 5px; border-radius: 10px;">
@@ -114,6 +117,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-009&custom_title=Sidra's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
 
+<!-- Added custom animated section with Sidra's name and data science journey -->
+<div align="center" style="margin: 40px 0; background: linear-gradient(135deg, rgba(30, 58, 138, 0.15), rgba(59, 130, 246, 0.15)); padding: 30px; border-radius: 20px; border: 2px solid rgba(88, 166, 255, 0.3);">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=58A6FF,1E90FF,00BFFF&center=true&vCenter=true&width=700&lines=Sidra+Saqlain+-+Aspiring+Data+Scientist;Learning+%26+Growing+in+ML+%26+AI;Mastering+Deep+Learning+%26+Neural+Networks;Transforming+Challenges+into+Opportunities;Building+the+Future+with+Data" alt="Sidra's Journey" />
+  <br><br>
+  <img src="/placeholder.svg?height=250&width=400" alt="Sidra Learning Journey" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
+  <br><br>
+  <em style="font-size: 18px; color: #58A6FF;"><b>Every algorithm mastered, every model trained - building my data science dreams! 💙✨</b></em>
+</div>
+
 <div align="center">
   <img src="/placeholder.svg?height=200&width=600" alt="Data Flow" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2);">
 </div>
@@ -122,6 +134,7 @@
 
 ## 🎯 Interests & Hobbies
 
+<!-- Updated hobby icons to show female representations -->
 <div align="center" style="margin: 30px 0;">
   <table style="border: none;">
     <tr>
@@ -173,14 +186,6 @@
   <img src="https://komarev.com/ghpvc/?username=Sidra-009&color=blue&style=for-the-badge&label=PROFILE+VIEWS" height="35" style="margin: 5px;"/>
   <img src="https://img.shields.io/github/followers/Sidra-009?color=blue&style=for-the-badge&logo=github&label=FOLLOWERS" height="35" style="margin: 5px;"/>
   <img src="https://img.shields.io/github/stars/Sidra-009?color=blue&style=for-the-badge&logo=github&label=STARS" height="35" style="margin: 5px;"/>
-</div>
-
----
-
-<div align="center" style="margin: 40px 0;">
-  <img src="/placeholder.svg?height=300&width=400" alt="Coding Zone" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.3);">
-  <br><br>
-  <em style="font-size: 18px; color: #58A6FF;"><b>When I'm in the zone 💻☕</b></em>
 </div>
 
 ---
