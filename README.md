@@ -8,7 +8,7 @@
 
 <!-- Added female data scientist coding GIF at the top -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Female Data Scientist Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="600" height="300" alt="Female Data Scientist Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
 </div>
 
 ---
@@ -16,7 +16,7 @@
 ## 🌟 About Me
 
 <!-- Updated coding image to show female developer -->
-<img align="right" alt="Female Developer Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 15px; margin-left: 20px;">
+<img align="right" alt="Female Developer Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px; margin-left: 20px;">
 
 🎓 **BS in Data Science** at **SSUET, Karachi**  
 ⚡ Passionate about turning raw data into actionable insights  
@@ -114,7 +114,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" width="50%" />
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
@@ -130,7 +130,7 @@
 <div align="center" style="margin: 40px 0; background: linear-gradient(135deg, rgba(30, 58, 138, 0.15), rgba(59, 130, 246, 0.15)); padding: 30px; border-radius: 20px; border: 2px solid rgba(88, 166, 255, 0.3);">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=58A6FF,1E90FF,00BFFF&center=true&vCenter=true&width=700&lines=Sidra+Saqlain+-+Aspiring+Data+Scientist;Learning+%26+Growing+in+ML+%26+AI;Mastering+Deep+Learning+%26+Neural+Networks;Transforming+Challenges+into+Opportunities;Building+the+Future+with+Data" alt="Sidra's Journey" />
   <br><br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="250" alt="Sidra Learning Journey" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
+  <img src="https://media.giphy.com/media/WmtBjKDwrCQRFhZRmR/giphy.gif" width="400" height="250" alt="Female Learning Data Science" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
   <br><br>
   <em style="font-size: 18px; color: #58A6FF;"><b>Every algorithm mastered, every model trained - building my data science dreams! 💙✨</b></em>
 </div>
@@ -163,19 +163,19 @@
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/l2SpMUEMRJkkqYcta/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Football ⚽</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Logic Puzzles 🧠</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">AI Research 💡</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Reading Blogs 📚</b>
       </td>
     </tr>
@@ -244,3 +244,11 @@
   <b style="font-size: 18px; color: #58A6FF;">⭐ Star my repositories if you find them interesting!</b><br>
   <em style="color: #93c5fd;">Let's connect and create something extraordinary together! 💙</em>
 </div>
+
+### 💖 Signature
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=ff8aa1&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Sidra+Saqlain+" />
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer"/>
+</p>
