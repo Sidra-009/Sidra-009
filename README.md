@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sidra+Saqlain;Data+Science+Enthusiast;AI+%26+ML+Developer;Code+Craftsperson" alt="Sidra Saqlain" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sidra+Saqlain;Aspiring+Data+Scienctist;Exploring+AI+%26+ML+and+DeepLearning;Code+Craftsperson" alt="Sidra Saqlain" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,6 @@
 ## 🌟 About Me
 
 <!-- Updated coding image to show female developer -->
-<img align="right" alt="Female Developer Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 15px; margin-left: 20px;">
 
 🎓 *BS in Data Science* at *SSUET, Karachi*  
 ⚡ Passionate about turning raw data into actionable insights  
@@ -27,23 +26,10 @@
 
 > "In the world of data, every pattern tells a story, and every algorithm unlocks potential."
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="700" height="120" alt="Data Flow Divider" style="border-radius: 10px;">
-</div>
 
 ---
 
 ## 🛠 Tech Arsenal
-
-<!-- Updated tech icons to show female-friendly representations -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
-  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
-</div>
 
 ### 💻 Programming & Development
 <p align="center">
@@ -97,10 +83,6 @@
   <img src="https://img.shields.io/badge/MIPS-60a5fa?style=for-the-badge&logo=linux&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="120" alt="Tech Divider" style="border-radius: 10px;">
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -141,21 +123,6 @@
 
 ---
 
-## 💻 Featured Projects
-
-<div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-  
-| Project Name | Description | Technologies |
-|--------------|-------------|-------------|
-| *🔍 Data Analysis Projects* | EDA, Forecasting, and Visualizations using Python | ![Python](https://img.shields.io/badge/Python-1e40af?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2563eb?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3b82f6?style=flat-square&logo=python&logoColor=white) |
-| *🤖 Machine Learning Models* | Predictive models and classification algorithms | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-60a5fa?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-93c5fd?style=flat-square&logo=tensorflow&logoColor=white) |
-| *📊 Data Visualization* | Interactive dashboards and visual analytics | ![PowerBI](https://img.shields.io/badge/PowerBI-1e40af?style=flat-square&logo=powerbi&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2563eb?style=flat-square&logo=python&logoColor=white) |
-| *🌐 Web Development* | Full-stack applications with data integration | ![Flask](https://img.shields.io/badge/Flask-3b82f6?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-60a5fa?style=flat-square&logo=django&logoColor=white) |
-
-</div>
-
----
-
 ## 🎯 Interests & Hobbies
 
 <!-- Updated hobby icons to show female representations -->
@@ -163,11 +130,11 @@
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/l2SpMUEMRJkkqYcta/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://www.bing.com/images/search?view=detailV2&ccid=DabNAKTw&id=4448427369FA3DC089C6BCEEA9EDA8A2A0DB507A&thid=OIP.DabNAKTwQFkMQllj5NTwKwHaHa&mediaurl=https%3a%2f%2fgifdb.com%2fimages%2fhigh%2fcartoon-girl-football-time-gs5beax8n715y1mb.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0da6cd00a4f040590c425963e4d4f02b%3frik%3delDboKKo7anuvA%26pid%3dImgRaw%26r%3d0&exph=498&expw=498&q=football+gif+female+cartton&FORM=IRPRST&ck=29E393CC902C6484C446E01F09EA4A83&selectedIndex=1&itb=0" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Football ⚽</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://www.bing.com/images/search?view=detailV2&ccid=m9Al0ikQ&id=E5B57B11635660EF2BAC1878BBC94F350F963ADF&thid=OIP.m9Al0ikQioruBcNh6pL9rgHaHa&mediaurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f6203d38de5cb48175d574ea6%2fca94e757-49e0-47b0-9741-fb79c8ad4b88%2fpuzzlegifs-5.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9bd025d229108a8aee05c361ea92fdae%3frik%3d3zqWDzVPybt4GA%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1200&q=LOGIC+PUZZLE+GIFS&FORM=IRPRST&ck=4ED361C36EB011C5637B4C0F8A946ADF&selectedIndex=6&itb=0" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Logic Puzzles 🧠</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
@@ -229,18 +196,6 @@
     <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-1e40af?style=for-the-badge&logoColor=white&labelColor=0f172a" height="50" style="border-radius: 25px; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Data+%2B+Code+%3D+Magic+💫;Always+learning,+always+growing+🌱" />
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=120&section=footer&animation=fadeIn"/>
-</div>
-
-<div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
   <b style="font-size: 18px; color: #58A6FF;">⭐ Star my repositories if you find them interesting!</b><br>
   <em style="color: #93c5fd;">Let's connect and create something extraordinary together! 💙</em>
 </div>
