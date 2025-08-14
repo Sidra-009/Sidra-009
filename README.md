@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sidra+Saqlain;Aspiring+Data+Scienctist;Exploring+AI+%26+ML+and+DL;Code+Craftsperson" alt="Sidra Saqlain" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=200&section=header&text=Data%20Science%20%26%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Data%20into%20Intelligence&descAlignY=55&descSize=20"/>
-</p>
 
 <!-- Added female data scientist coding GIF at the top -->
 <div align="center">
