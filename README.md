@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sidra+Saqlain;Aspiring+Data+Scienctist;Exploring+AI+%26+ML+and+DeepLearning;Code+Craftsperson" alt="Sidra Saqlain" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=00BFFF,1E90FF,4169E1,0066CC,003D82&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sidra+Saqlain;Aspiring+Data+Scienctist;Exploring+AI+%26+ML+and+DL;Code+Craftsperson" alt="Sidra Saqlain" />
 </h1>
 
 <p align="center">
@@ -199,3 +199,13 @@
   <b style="font-size: 18px; color: #58A6FF;">⭐ Star my repositories if you find them interesting!</b><br>
   <em style="color: #93c5fd;">Let's connect and create something extraordinary together! 💙</em>
 </div>
+
+----
+### 💖 Signature
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Sidra+Saqlain+" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
+</p>
