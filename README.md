@@ -1,53 +1,63 @@
-<h3 align="center">Welcome to my GitHub Space 👋</h3>
-<h1 align="center">I'm Sidra Saqlain</h1>
+# 👋 Hi, I'm Sidra Saqlain | Data Science Student
 
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1211151616/ko/%EB%B2%A1%ED%84%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.jpg?s=170667a&w=0&k=20&c=zFCFnATgN1Za5gBVO9tb8Jd4HbDVWqjL11A0SVCnRXo=" 
-       alt="Data Science Banner" width="90%" style="max-height:180px; border-radius:10px;" />
-</p>
-
-<h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Data+Science+Student;Python+%26+Java+Developer;AI+%26+ML+Enthusiast;Web+%26+Database+Developer;Passionate+About+EDA+and+Forecasting;Tech+Learner+%26+Innovator" />
-</h2>
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px;" alt="coding-gif"/>
+  <img src="https://media.istockphoto.com/id/1211151616/ko/%EB%B2%A1%ED%84%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.jpg?s=170667a&w=0&k=20&c=zFCFnATgN1Za5gBVO9tb8Jd4HbDVWqjL11A0SVCnRXo=" alt="Data Science Banner" width="100%" style="max-height:250px; border-radius:10px;" />
 </p>
 
 ---
 
-### *About Me ✍*
-* 🎓 BS in *Data Science*, SSUET Karachi  
-* 💻 Skilled in *Python, Java, DSA, HTML/CSS/JS, Flask, Django, SQL, MySQL, Power BI, TensorFlow, EDA, Forecasting, Data Cleaning*  
-* ⚡ Passionate about *AI, ML, Deep Learning, Web3, and Modern Web Development*  
-* 💡 Dedicated to transforming *raw data into actionable insights*  
+## 👩‍💻 About Me
 
-> "Transforming raw data and code into real-world impact."
+🎓 *BS in Data Science* at *SSUET, Karachi*  
+⚙ Passionate about crafting smart, data-driven solutions using Python, SQL, and ML  
+📊 Skilled in EDA, Forecasting, Machine Learning, and Visualizations
 
----
-
-### 🚀 *Tech Stack & Skills*
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,django,ts,jupyter,pandas,numpy,matplotlib,seaborn,scikitlearn,tensorflow,powerbi,git,vscode,linux,ubuntu,mysql,ssms,xampp,oraclevm,netbeans,msaccess" />
-</p>
+> "Transforming raw data into real impact."
 
 ---
 
-### *Featured Projects ✨*
+## 🚀 Tech Stack & Skills
 
-<div align="center">
+### 💻 Programming & Web
 
-| Project | Description |
-|---------|-------------|
-| *Banking System (Java OOP)* | GUI-based banking system for transactions & account management |
-| *Data Analysis Projects* | EDA, Forecasting, and Visualizations using Python |
-| *Web Development* | Dynamic websites with Flask/Django & XAMPP |
-| *MS Office Automation* | Excel dashboards & automation using VBA |
-| *Database Projects* | MySQL, MS Access, Oracle-based projects |
-| *Virtualization & Testing* | Oracle VirtualBox setups for simulations |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-</div>
+### 📊 Data Science & ML
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2D3E50?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![EDA](https://img.shields.io/badge/EDA-004080?style=flat-square&logo=datadog&logoColor=white)
+![Forecasting](https://img.shields.io/badge/Forecasting-00BFFF?style=flat-square&logo=chartdotjs&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-228B22?style=flat-square&logo=databricks&logoColor=white)
+
+
+### 🛠 Tools & Platforms
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![VVM](https://img.shields.io/badge/VVM-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
+![MIPS](https://img.shields.io/badge/MIPS-00599C?style=flat-square&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+---
+
 
 ---
 
