@@ -125,7 +125,7 @@
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://www.linkedin.com/posts/mohsin-jawad-170b3a30b_github-professionaldevelopment-pakistantech-activity-7361298036234362881-6WEd?utm_source=share&utm_medium=member_android&rcm=ACoAAFVWqPMBuabKXIbc86fhyUfaJmZfmtJmu0o" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Football ⚽</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
