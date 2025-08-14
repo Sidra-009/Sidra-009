@@ -8,7 +8,7 @@
 
 <!-- Added female data scientist coding GIF at the top -->
 <div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="600" height="300" alt="Female Data Scientist Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Female Data Scientist Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
 </div>
 
 ---
@@ -16,16 +16,16 @@
 ## 🌟 About Me
 
 <!-- Updated coding image to show female developer -->
-<img align="right" alt="Female Developer Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 15px; margin-left: 20px;">
+<img align="right" alt="Female Developer Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 15px; margin-left: 20px;">
 
-🎓 **BS in Data Science** at **SSUET, Karachi**  
+🎓 *BS in Data Science* at *SSUET, Karachi*  
 ⚡ Passionate about turning raw data into actionable insights  
-💻 Skilled in **Python, Java, SQL, ML, AI, Data Visualization, Web & Database Development**  
-🚀 Always exploring the latest in **AI/ML technologies**  
-🎯 Goal: **Making data-driven decisions accessible to everyone**  
-✨ **Empowering businesses through intelligent data solutions**
+💻 Skilled in *Python, Java, SQL, ML, AI, Data Visualization, Web & Database Development*  
+🚀 Always exploring the latest in *AI/ML technologies*  
+🎯 Goal: *Making data-driven decisions accessible to everyone*  
+✨ *Empowering businesses through intelligent data solutions*
 
-> *"In the world of data, every pattern tells a story, and every algorithm unlocks potential."*
+> "In the world of data, every pattern tells a story, and every algorithm unlocks potential."
 
 <div align="center" style="margin-top: 30px;">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="700" height="120" alt="Data Flow Divider" style="border-radius: 10px;">
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠 Tech Arsenal
 
 <!-- Updated tech icons to show female-friendly representations -->
 <div align="center" style="margin: 30px 0;">
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Data--Cleaning-1e40af?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
 
-### 🛠️ Tools & Platforms
+### 🛠 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,linux,ubuntu,jupyter&theme=dark" />
 </p>
@@ -114,7 +114,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" width="50%" />
 </div>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
@@ -130,7 +130,7 @@
 <div align="center" style="margin: 40px 0; background: linear-gradient(135deg, rgba(30, 58, 138, 0.15), rgba(59, 130, 246, 0.15)); padding: 30px; border-radius: 20px; border: 2px solid rgba(88, 166, 255, 0.3);">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=58A6FF,1E90FF,00BFFF&center=true&vCenter=true&width=700&lines=Sidra+Saqlain+-+Aspiring+Data+Scientist;Learning+%26+Growing+in+ML+%26+AI;Mastering+Deep+Learning+%26+Neural+Networks;Transforming+Challenges+into+Opportunities;Building+the+Future+with+Data" alt="Sidra's Journey" />
   <br><br>
-  <img src="https://media.giphy.com/media/WmtBjKDwrCQRFhZRmR/giphy.gif" width="400" height="250" alt="Female Learning Data Science" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="250" alt="Sidra Learning Journey" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
   <br><br>
   <em style="font-size: 18px; color: #58A6FF;"><b>Every algorithm mastered, every model trained - building my data science dreams! 💙✨</b></em>
 </div>
@@ -147,10 +147,10 @@
   
 | Project Name | Description | Technologies |
 |--------------|-------------|-------------|
-| **🔍 Data Analysis Projects** | EDA, Forecasting, and Visualizations using Python | ![Python](https://img.shields.io/badge/Python-1e40af?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2563eb?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3b82f6?style=flat-square&logo=python&logoColor=white) |
-| **🤖 Machine Learning Models** | Predictive models and classification algorithms | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-60a5fa?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-93c5fd?style=flat-square&logo=tensorflow&logoColor=white) |
-| **📊 Data Visualization** | Interactive dashboards and visual analytics | ![PowerBI](https://img.shields.io/badge/PowerBI-1e40af?style=flat-square&logo=powerbi&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2563eb?style=flat-square&logo=python&logoColor=white) |
-| **🌐 Web Development** | Full-stack applications with data integration | ![Flask](https://img.shields.io/badge/Flask-3b82f6?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-60a5fa?style=flat-square&logo=django&logoColor=white) |
+| *🔍 Data Analysis Projects* | EDA, Forecasting, and Visualizations using Python | ![Python](https://img.shields.io/badge/Python-1e40af?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2563eb?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3b82f6?style=flat-square&logo=python&logoColor=white) |
+| *🤖 Machine Learning Models* | Predictive models and classification algorithms | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-60a5fa?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-93c5fd?style=flat-square&logo=tensorflow&logoColor=white) |
+| *📊 Data Visualization* | Interactive dashboards and visual analytics | ![PowerBI](https://img.shields.io/badge/PowerBI-1e40af?style=flat-square&logo=powerbi&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2563eb?style=flat-square&logo=python&logoColor=white) |
+| *🌐 Web Development* | Full-stack applications with data integration | ![Flask](https://img.shields.io/badge/Flask-3b82f6?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-60a5fa?style=flat-square&logo=django&logoColor=white) |
 
 </div>
 
@@ -163,19 +163,19 @@
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/l2SpMUEMRJkkqYcta/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Football ⚽</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Logic Puzzles 🧠</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">AI Research 💡</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Reading Blogs 📚</b>
       </td>
     </tr>
@@ -244,11 +244,3 @@
   <b style="font-size: 18px; color: #58A6FF;">⭐ Star my repositories if you find them interesting!</b><br>
   <em style="color: #93c5fd;">Let's connect and create something extraordinary together! 💙</em>
 </div>
-
-### 💖 Signature
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=ff8aa1&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Sidra+Saqlain+" />
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer"/>
-</p>
