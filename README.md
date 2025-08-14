@@ -51,15 +51,22 @@
 
 ---
 
-### 📊 **GitHub Stats & Languages**
+### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ff79c6&icon_color=ff79c6&bg_color=0d1117" width="49%" style="border-radius:12px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical&hide_border=true&title_color=ff79c6&bg_color=0d1117" width="49%" style="border-radius:12px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical&hide_border=false" width="450" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical&hide_border=false" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,A,B,C" width="49%" style="border-radius:12px;"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-009&theme=react-dark&area=true&hide_border=false" width="49%" style="border-radius:12px;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,A,B,C" />
+</p>
+
+---
+
+### 📈 **Contribution Graph**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-009&theme=react-dark&area=true&hide_border=false" />
 </p>
 
 ---
