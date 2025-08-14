@@ -188,4 +188,30 @@
 ## 💬 Inspirational Quote
 
 <div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 30px; border-radius: 20px; margin: 30px 0; border: 2px solid rgba(88, 166, 255, 0.2);">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" sty
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" style="border-radius: 10px;"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center" style="margin: 30px 0;">
+  <a href="https://github.com/Sidra-009?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-1e40af?style=for-the-badge&logoColor=white&labelColor=0f172a" height="50" style="border-radius: 25px; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Data+%2B+Code+%3D+Magic+💫;Always+learning,+always+growing+🌱" />
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=120&section=footer&animation=fadeIn"/>
+</div>
+
+<div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <b style="font-size: 18px; color: #58A6FF;">⭐ Star my repositories if you find them interesting!</b><br>
+  <em style="color: #93c5fd;">Let's connect and create something extraordinary together! 💙</em>
+</div>
