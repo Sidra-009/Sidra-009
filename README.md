@@ -1,6 +1,11 @@
 <h3 align="center">Welcome to my GitHub Space 👋</h3>
 <h1 align="center">I'm Sidra Saqlain</h1>
 
+<p align="center">
+  <img src="https://media.istockphoto.com/id/1211151616/ko/%EB%B2%A1%ED%84%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.jpg?s=170667a&w=0&k=20&c=zFCFnATgN1Za5gBVO9tb8Jd4HbDVWqjL11A0SVCnRXo=" 
+       alt="Data Science Banner" width="100%" style="max-height:250px; border-radius:10px;" />
+</p>
+
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Data+Science+Student;Python+%26+Java+Developer;AI+%26+ML+Enthusiast;Web+%26+Database+Developer;Passionate+About+EDA+and+Forecasting;Tech+Learner+%26+Innovator" />
 </h2>
@@ -23,7 +28,6 @@
 ### 🚀 **Tech Stack & Skills**
 
 <p align="center">
-<!-- Programming & Development -->
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,django,ts,jupyter,pandas,numpy,matplotlib,seaborn,scikitlearn,tensorflow,powerbi,git,vscode,linux,ubuntu,mysql,ssms,xampp,oraclevm,netbeans,msaccess" />
 </p>
 
@@ -43,6 +47,12 @@
 | **Virtualization & Testing** | Oracle VirtualBox setups for simulations |
 
 </div>
+
+<p align="center">
+<img src="https://i.gifer.com/JXA0.gif" alt="Coding Animation" width="100%" style="max-width:500px; border-radius:8px;" />
+<br/>
+<em>When I'm in the zone 💻☕</em>
+</p>
 
 ---
 
@@ -82,10 +92,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sidrasaqlain11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/sidra__saqlain" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/Sidra-009" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 </p>
 
