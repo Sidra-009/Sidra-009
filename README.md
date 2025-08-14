@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://media.istockphoto.com/id/1211151616/ko/%EB%B2%A1%ED%84%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.jpg?s=170667a&w=0&k=20&c=zFCFnATgN1Za5gBVO9tb8Jd4HbDVWqjL11A0SVCnRXo=" 
-       alt="Data Science Banner" width="100%" style="max-height:250px; border-radius:10px;" />
+       alt="Data Science Banner" width="90%" style="max-height:180px; border-radius:10px;" />
 </p>
 
 <h2 align="center">
@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px;" alt="coding-gif"/>
 </p>
 
 ---
@@ -21,6 +21,7 @@
 * 💻 Skilled in **Python, Java, DSA, HTML/CSS/JS, Flask, Django, SQL, MySQL, Power BI, TensorFlow, EDA, Forecasting, Data Cleaning**  
 * ⚡ Passionate about **AI, ML, Deep Learning, Web3, and Modern Web Development**  
 * 💡 Dedicated to transforming **raw data into actionable insights**  
+
 > "Transforming raw data and code into real-world impact."
 
 ---
@@ -47,12 +48,6 @@
 | **Virtualization & Testing** | Oracle VirtualBox setups for simulations |
 
 </div>
-
-<p align="center">
-<img src="https://i.gifer.com/JXA0.gif" alt="Coding Animation" width="100%" style="max-width:500px; border-radius:8px;" />
-<br/>
-<em>When I'm in the zone 💻☕</em>
-</p>
 
 ---
 
@@ -92,13 +87,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sidrasaqlain11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/sidra__saqlain" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Sidra-009" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
@@ -111,7 +103,21 @@
 
 ---
 
-### 💬 **Quote**
+<p align="center">
+  <a href="https://github.com/Sidra-009?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/JXA0.gif" alt="Coding animation" width="300" style="border-radius:8px;" />
+  <br/>
+  <em>When I'm in the zone 💻☕</em>
+</p>
+
+---
+
+## 💬 **Quote**
 <div align="center">
 <em>"The best way to predict the future is to invent it."</em><br>— <strong>Alan Kay</strong>
 </div>
