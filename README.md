@@ -8,7 +8,7 @@
 
 <!-- Added female data scientist coding GIF at the top -->
 <div align="center">
-  <img src="/placeholder.svg?height=300&width=600" alt="Female Data Scientist Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Female Data Scientist Coding" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);">
 </div>
 
 ---
@@ -16,7 +16,7 @@
 ## 🌟 About Me
 
 <!-- Updated coding image to show female developer -->
-<img align="right" alt="Female Developer Coding" width="350" src="/placeholder.svg?height=300&width=350" style="border-radius: 15px; margin-left: 20px;">
+<img align="right" alt="Female Developer Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 15px; margin-left: 20px;">
 
 🎓 **BS in Data Science** at **SSUET, Karachi**  
 ⚡ Passionate about turning raw data into actionable insights  
@@ -28,7 +28,7 @@
 > *"In the world of data, every pattern tells a story, and every algorithm unlocks potential."*
 
 <div align="center" style="margin-top: 30px;">
-  <img src="/placeholder.svg?height=120&width=700" alt="Data Flow Divider" style="border-radius: 10px;">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="700" height="120" alt="Data Flow Divider" style="border-radius: 10px;">
 </div>
 
 ---
@@ -37,12 +37,12 @@
 
 <!-- Updated tech icons to show female-friendly representations -->
 <div align="center" style="margin: 30px 0;">
-  <img src="/placeholder.svg?height=80&width=80" style="margin: 5px; border-radius: 10px;">
-  <img src="/placeholder.svg?height=80&width=80" style="margin: 5px; border-radius: 10px;">
-  <img src="/placeholder.svg?height=80&width=80" style="margin: 5px; border-radius: 10px;">
-  <img src="/placeholder.svg?height=80&width=80" style="margin: 5px; border-radius: 10px;">
-  <img src="/placeholder.svg?height=80&width=80" style="margin: 5px; border-radius: 10px;">
-  <img src="/placeholder.svg?height=80&width=80" style="margin: 5px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
+  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="80" height="80" style="margin: 5px; border-radius: 10px;">
 </div>
 
 ### 💻 Programming & Development
@@ -51,17 +51,19 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=1e3a8a" height="35"/>
-  <img src="https://img.shields.io/badge/Java-1e40af?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e3a8a" height="35"/>
-  <img src="https://img.shields.io/badge/SQL-2563eb?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e3a8a" height="35"/>
-  <img src="https://img.shields.io/badge/JavaScript-3b82f6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1e3a8a" height="35"/>
-  <img src="https://img.shields.io/badge/HTML5-60a5fa?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e3a8a" height="35"/>
-  <img src="https://img.shields.io/badge/CSS3-93c5fd?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e3a8a" height="35"/>
+  <img src="https://img.shields.io/badge/Python-1e40af?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Java-2563eb?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-60a5fa?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/HTML5-93c5fd?style=for-the-badge&logo=html5&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1e40af?style=for-the-badge&logo=css3&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Flask-2563eb?style=for-the-badge&logo=flask&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Django-3b82f6?style=for-the-badge&logo=django&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
 
 ### 🤖 Data Science & AI/ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
 <div align="center">
@@ -73,6 +75,9 @@
   <img src="https://img.shields.io/badge/TensorFlow-1e40af?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/PyTorch-2563eb?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/PowerBI-3b82f6?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/EDA-60a5fa?style=for-the-badge&logo=datadog&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Forecasting-93c5fd?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Data--Cleaning-1e40af?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
 
 ### 🛠️ Tools & Platforms
@@ -86,10 +91,14 @@
   <img src="https://img.shields.io/badge/Git-3b82f6?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/Linux-60a5fa?style=for-the-badge&logo=linux&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/Ubuntu-93c5fd?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/MySQL-1e40af?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/SSMS-2563eb?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/VVM-3b82f6?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/MIPS-60a5fa?style=for-the-badge&logo=linux&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="/placeholder.svg?height=120&width=600" alt="Tech Divider" style="border-radius: 10px;">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="120" alt="Tech Divider" style="border-radius: 10px;">
 </div>
 
 ---
@@ -121,13 +130,28 @@
 <div align="center" style="margin: 40px 0; background: linear-gradient(135deg, rgba(30, 58, 138, 0.15), rgba(59, 130, 246, 0.15)); padding: 30px; border-radius: 20px; border: 2px solid rgba(88, 166, 255, 0.3);">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=58A6FF,1E90FF,00BFFF&center=true&vCenter=true&width=700&lines=Sidra+Saqlain+-+Aspiring+Data+Scientist;Learning+%26+Growing+in+ML+%26+AI;Mastering+Deep+Learning+%26+Neural+Networks;Transforming+Challenges+into+Opportunities;Building+the+Future+with+Data" alt="Sidra's Journey" />
   <br><br>
-  <img src="/placeholder.svg?height=250&width=400" alt="Sidra Learning Journey" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="250" alt="Sidra Learning Journey" style="border-radius: 20px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);">
   <br><br>
   <em style="font-size: 18px; color: #58A6FF;"><b>Every algorithm mastered, every model trained - building my data science dreams! 💙✨</b></em>
 </div>
 
 <div align="center">
-  <img src="/placeholder.svg?height=200&width=600" alt="Data Flow" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2);">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="200" alt="Data Flow" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2);">
+</div>
+
+---
+
+## 💻 Featured Projects
+
+<div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  
+| Project Name | Description | Technologies |
+|--------------|-------------|-------------|
+| **🔍 Data Analysis Projects** | EDA, Forecasting, and Visualizations using Python | ![Python](https://img.shields.io/badge/Python-1e40af?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2563eb?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3b82f6?style=flat-square&logo=python&logoColor=white) |
+| **🤖 Machine Learning Models** | Predictive models and classification algorithms | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-60a5fa?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-93c5fd?style=flat-square&logo=tensorflow&logoColor=white) |
+| **📊 Data Visualization** | Interactive dashboards and visual analytics | ![PowerBI](https://img.shields.io/badge/PowerBI-1e40af?style=flat-square&logo=powerbi&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2563eb?style=flat-square&logo=python&logoColor=white) |
+| **🌐 Web Development** | Full-stack applications with data integration | ![Flask](https://img.shields.io/badge/Flask-3b82f6?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-60a5fa?style=flat-square&logo=django&logoColor=white) |
+
 </div>
 
 ---
@@ -139,19 +163,19 @@
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="/placeholder.svg?height=80&width=80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/l2SpMUEMRJkkqYcta/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Football ⚽</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="/placeholder.svg?height=80&width=80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Logic Puzzles 🧠</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="/placeholder.svg?height=80&width=80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">AI Research 💡</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="/placeholder.svg?height=80&width=80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Reading Blogs 📚</b>
       </td>
     </tr>
@@ -175,7 +199,7 @@
 </div>
 
 <div align="center">
-  <img src="/placeholder.svg?height=150&width=500" alt="Connection Network" style="border-radius: 15px;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="500" height="150" alt="Connection Network" style="border-radius: 15px;">
 </div>
 
 ---
@@ -198,7 +222,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Explore My Work
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/Sidra-009?tab=repositories">
