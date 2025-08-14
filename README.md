@@ -125,8 +125,8 @@
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://pin.it/5nl79JIIK" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
-        <b style="color: #58A6FF;">Football ⚽</b>
+        <img src="https://i.imgur.com/yourgif.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+<b style="color: #58A6FF;">Football ⚽</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
