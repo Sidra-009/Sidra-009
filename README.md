@@ -51,32 +51,36 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical&hide_border=false" width="450" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical&hide_border=false" width="450" />
-</p>
+### 📊 **GitHub Analytics**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,A,B,C" />
-</p>
+<div align="center">
 
----
+<!-- Animated Stats Cards Side-by-Side -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=radical&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" width="400" />
+</div>
 
-### 📈 **Contribution Graph**
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-009&theme=react-dark&area=true&hide_border=false" />
-</p>
+<!-- Trophies with Gradient -->
+<div style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies" />
+</div>
+
+<!-- Animated Activity Graph -->
+<div style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-009&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Coding%20Activity&point=FF6B97&line=9A4C95&color=FF6B97" width="100%" />
+</div>
+
+</div>
 
 ---
 
 ### 🎯 **Hobbies & Interests**
 <p align="center">
-<img src="https://img.shields.io/badge/Football-⚽-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Logic_Puzzles-🧠-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Research-💡-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reading_Blogs-📚-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Football-⚽-FF6B97?style=for-the-badge&logo=soccer&logoColor=white" />
+<img src="https://img.shields.io/badge/Logic_Puzzles-🧠-9A4C95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Research-💡-E96443?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reading_Blogs-📚-904E95?style=for-the-badge" />
 </p>
 
 ---
@@ -98,14 +102,14 @@
 
 ### 👁‍🗨 **Profile Views**
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sidra-009&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Sidra-009&color=FF6B97&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/Sidra-009?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
