@@ -119,19 +119,17 @@
 </div>
 
 ---
-
 ## 🎯 Interests & Hobbies
 
-<!-- Updated hobby icons to show female representations -->
 <div align="center" style="margin: 30px 0;">
   <table style="border: none;">
     <tr>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://www.bing.com/images/search?view=detailV2&ccid=DabNAKTw&id=4448427369FA3DC089C6BCEEA9EDA8A2A0DB507A&thid=OIP.DabNAKTwQFkMQllj5NTwKwHaHa&mediaurl=https%3a%2f%2fgifdb.com%2fimages%2fhigh%2fcartoon-girl-football-time-gs5beax8n715y1mb.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0da6cd00a4f040590c425963e4d4f02b%3frik%3delDboKKo7anuvA%26pid%3dImgRaw%26r%3d0&exph=498&expw=498&q=football+gif+female+cartton&FORM=IRPRST&ck=29E393CC902C6484C446E01F09EA4A83&selectedIndex=1&itb=0" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Football ⚽</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
-        <img src="https://www.bing.com/images/search?view=detailV2&ccid=m9Al0ikQ&id=E5B57B11635660EF2BAC1878BBC94F350F963ADF&thid=OIP.m9Al0ikQioruBcNh6pL9rgHaHa&mediaurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f6203d38de5cb48175d574ea6%2fca94e757-49e0-47b0-9741-fb79c8ad4b88%2fpuzzlegifs-5.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9bd025d229108a8aee05c361ea92fdae%3frik%3d3zqWDzVPybt4GA%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1200&q=LOGIC+PUZZLE+GIFS&FORM=IRPRST&ck=4ED361C36EB011C5637B4C0F8A946ADF&selectedIndex=6&itb=0" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
         <b style="color: #58A6FF;">Logic Puzzles 🧠</b>
       </td>
       <td align="center" width="200" style="padding: 20px;">
@@ -145,7 +143,6 @@
     </tr>
   </table>
 </div>
-
 ---
 
 ## 🤝 Let's Connect
