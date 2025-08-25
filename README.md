@@ -28,11 +28,6 @@
 **Bachelor of Science in Data Science** | *Sir Syed University of Engineering & Technology, Karachi*  
 **CGPA:** 3.8/4.0 | **Expected Graduation:** 2025
 
-### 🚀 **Professional Journey**
-- 🔬 **Research Assistant** in Machine Learning Lab
-- 📊 **Data Analytics Intern** at Tech Solutions Inc.
-- 🏆 **Winner** - University Data Science Competition 2024
-- 📝 **Published** 2 research papers on ML applications
 
 ### 💡 **Core Expertise**
 \`\`\`python
@@ -124,10 +119,6 @@ expertise = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidra-009&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=15" />
 </div>
 
-### 🏆 **Achievement Showcase**
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-009&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
 
 ### 📊 **Language Distribution & Activity**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
@@ -143,31 +134,6 @@ expertise = {
 </div>
 
 ---
-
-## 🎯 Current Projects & Research
-
-<!-- Added detailed project showcase section -->
-<div align="center" style="margin: 30px 0;">
-
-### 🔬 **Active Research Projects**
-<table align="center" style="border-collapse: collapse; margin: 20px 0;">
-<tr>
-<td align="center" style="padding: 20px; border: 2px solid rgba(88, 166, 255, 0.3); border-radius: 15px; margin: 10px; background: linear-gradient(135deg, rgba(30, 58, 138, 0.05), rgba(59, 130, 246, 0.05));">
-<h4>🧠 Neural Architecture Search</h4>
-<p><strong>Status:</strong> <img src="https://img.shields.io/badge/In%20Progress-yellow?style=flat-square"/> 75% Complete</p>
-<p>Developing automated neural network design algorithms for computer vision tasks</p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</td>
-<td align="center" style="padding: 20px; border: 2px solid rgba(88, 166, 255, 0.3); border-radius: 15px; margin: 10px; background: linear-gradient(135deg, rgba(30, 58, 138, 0.05), rgba(59, 130, 246, 0.05));">
-<h4>📊 Real-time Analytics Dashboard</h4>
-<p><strong>Status:</strong> <img src="https://img.shields.io/badge/Beta-blue?style=flat-square"/> 90% Complete</p>
-<p>Interactive dashboard for live data visualization and business intelligence</p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-</td>
-</tr>
-</table>
 
 ### 📚 **Recent Publications & Achievements**
 <div align="center" style="margin: 20px 0;">
@@ -305,9 +271,7 @@ expertise = {
   </a>
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=⭐+Star+repositories+that+inspire+you!;🔄+Fork+projects+for+collaboration!;💬+Open+issues+for+discussions!;🤝+Let's+build+the+future+together!" alt="Call to Action" />
-</div>
+
 
 <div align="center">
   <b style="font-size: 20px; color: #58A6FF;">🎯 Ready to innovate? Let's connect and create something extraordinary!</b><br><br>
@@ -320,16 +284,10 @@ expertise = {
 
 ### 💖 Digital Signature
 
-<!-- Enhanced signature with more sophisticated animations -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=4000&pause=1000&color=1E90FF,58A6FF,00BFFF&center=true&vCenter=true&width=800&height=80&lines=✨+Crafted+with+passion+by+Sidra+Saqlain+✨;🚀+Data+Scientist+%7C+AI+Enthusiast+%7C+Innovator+🚀;💙+Transforming+Data+into+Intelligence+💙" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Sidra+Saqlain+" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<!-- Added final interactive element -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+explore+and+connect!;Let's+innovate+together! 🚀" alt="Thank You" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
+</p>
