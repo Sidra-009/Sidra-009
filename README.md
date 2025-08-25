@@ -107,9 +107,7 @@
 <!-- Enhanced analytics section with more comprehensive metrics -->
 <div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 30px; border-radius: 20px; margin: 30px 0; border: 2px solid rgba(88, 166, 255, 0.3);">
 
-### 📈 **Performance Metrics**
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidra-009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&border_radius=15&include_all_commits=true&count_private=true" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidra-009&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=15" />
 </div>
 
@@ -117,8 +115,7 @@
 ### 📊 **Language Distribution & Activity**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=10" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sidra009&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" />
-</div>
+ 
 
 </div>
 
@@ -127,14 +124,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-009&custom_title=Sidra's%20Comprehensive%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
 
----
 
-### 📚 **Recent Publications & Achievements**
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=📝+%22Optimizing+ML+Models+for+Edge+Computing%22+-+IEEE+Conference+2024;🏆+Best+Student+Paper+Award+-+Data+Science+Symposium+2024;🎯+95%25+Accuracy+in+Image+Classification+Challenge;📊+Kaggle+Competition+Top+5%25+Finisher" alt="Achievements" />
-</div>
-
-</div>
 
 ---
 
