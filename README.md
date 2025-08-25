@@ -28,17 +28,11 @@
 **Bachelor of Science in Data Science** | *Sir Syed University of Engineering & Technology, Karachi*  
 **CGPA:** 3.8/4.0 | **Expected Graduation:** 2025
 
-
-### 💡 **Core Expertise**
-\`\`\`python
-expertise = {
-    "data_science": ["Statistical Analysis", "Predictive Modeling", "Feature Engineering"],
-    "machine_learning": ["Supervised Learning", "Unsupervised Learning", "Deep Learning"],
-    "ai_specialization": ["Computer Vision", "NLP", "Neural Networks", "MLOps"],
-    "business_intelligence": ["Data Visualization", "Dashboard Creation", "KPI Analysis"],
-    "research": ["Academic Writing", "Experimental Design", "Peer Review"]
-}
-\`\`\`
+⚡ Passionate about turning raw data into actionable insights  
+💻 Skilled in Python, Java, SQL, ML, AI, Data Visualization, Web & Database Development  
+🚀 Always exploring the latest in AI/ML technologies  
+🎯 Goal: Making data-driven decisions accessible to everyone  
+✨ Empowering businesses through intelligent data solutions
 
 ### 🎯 **Mission Statement**
 *"Transforming raw data into intelligent solutions that drive innovation and create meaningful impact in the digital age."*
