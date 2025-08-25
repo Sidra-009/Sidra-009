@@ -127,14 +127,6 @@
 
 ---
 
-### 📚 *Recent Publications & Achievements*
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=📝+%22Optimizing+ML+Models+for+Edge+Computing%22+-+IEEE+Conference+2024;🏆+Best+Student+Paper+Award+-+Data+Science+Symposium+2024;🎯+95%25+Accuracy+in+Image+Classification+Challenge;📊+Kaggle+Competition+Top+5%25+Finisher" alt="Achievements" />
-</div>
-
-</div>
-
----
 
 ## 🎯 Specialized Skills & Interests
 
