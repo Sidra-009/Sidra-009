@@ -26,7 +26,7 @@
 
 ### 🎓 *Academic Excellence*
 *Bachelor of Science in Data Science* | Sir Syed University of Engineering & Technology, Karachi  
-*CGPA:* 3.8/4.0 | *Expected Graduation:* 2027
+*Expected Graduation:* 2027
 
 ⚡ Passionate about turning raw data into actionable insights  
 💻 Skilled in Python, Java, SQL, ML, AI, Data Visualization, Web & Database Development  
