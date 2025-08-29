@@ -14,8 +14,7 @@
 
 <!-- Added advanced metrics dashboard -->
 <div align="center" style="margin: 40px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🎯+Current+Focus%3A+Deep+Learning+%26+Computer+Vision;📊+Analyzing+Complex+Datasets+Daily;🤖+Building+Intelligent+ML+Models;🔬+Research+in+Neural+Architecture+Search;💡+Innovating+AI+Solutions+for+Real+Problems" alt="Current Focus" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🎯+Current+Focus%3A+Deep+Learning+%26+Computer+Vision;📊+Analyzing+Complex+Datasets+Daily;🤖+Building+Intelligent+ML+Models;🔬+Research+in+Neural+Architecture+Search;💡
 
 ---
 
