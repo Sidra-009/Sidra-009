@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠 Advanced Tech Arsenal
+## 🛠 Tech Arsenal
 
 <!-- Reorganized tech stack with proficiency levels and interactive elements -->
 <div align="center" style="margin: 30px 0;">
@@ -91,8 +91,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/MLflow-Intermediate-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
@@ -138,9 +136,6 @@
 <td align="center" width="250" style="padding: 20px; border: 2px solid rgba(88, 166, 255, 0.3); border-radius: 15px; margin: 10px; background: linear-gradient(135deg, rgba(30, 58, 138, 0.05), rgba(59, 130, 246, 0.05));">
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
 <b style="color: #58A6FF;">Sports Analytics ⚽</b><br>
-<small>Applying ML to football performance analysis</small>
-</td>
-<td align="center" width="250" style="padding: 20px; border: 2px solid rgba(88, 166, 255, 0.3); border-radius: 15px; margin: 10px; background: linear-gradient(135deg, rgba(30, 58, 138, 0.05), rgba(59, 130, 246, 0.05));">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
 <b style="color: #58A6FF;">Algorithm Design 🧠</b><br>
 <small>Creating efficient solutions for complex problems</small>
