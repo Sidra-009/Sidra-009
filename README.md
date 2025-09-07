@@ -264,7 +264,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
 </
 
-
-### 🐍 Contribution Snake Graph
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidra-009&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=15" alt="Sidra's GitHub Streak" />
+### 🐍 Contribution Snake Animation
+![Snake Graph](https://your-image-link.gif)
