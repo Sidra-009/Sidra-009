@@ -12,12 +12,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Female Data Scientist Coding" style="border-radius: 20px; box-shadow: 0 15px 50px rgba(59, 130, 246, 0.4); border: 3px solid rgba(88, 166, 255, 0.3);">
 </div>
 
-<!-- Added advanced metrics dashboard -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🎯+Current+Focus%3A+Deep+Learning+%26+Computer+Vision;📊+Analyzing+Complex+Datasets+Daily;🤖+Building+Intelligent+ML+Models;🔬+Research+in+Neural+Architecture+Search;💡+Innovating+AI+Solutions+for+Real+Problems" alt="Current Focus" />
-</div>
-
----
 
 ## 🌟 About Me
 
@@ -112,13 +106,14 @@
 </div>
 
 
-### 📊 **Language Distribution & Activity**
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=10" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sidra009&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" />
-</div>
+### 📊 Language Distribution & Activity
 
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sidra009&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" /></td>
+  </tr>
+</table>
 
 ### 📈 **Contribution Heatmap**
 <div align="center" style="margin: 30px 0;">
