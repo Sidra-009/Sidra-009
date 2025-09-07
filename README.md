@@ -26,7 +26,7 @@
 
 ### 🎓 **Academic Excellence**
 **Bachelor of Science in Data Science** | *Sir Syed University of Engineering & Technology, Karachi*  
-**CGPA:** 3.8/4.0 | **Expected Graduation:** 2027
+**Expected Graduation:** 2027
 
 ⚡ Passionate about turning raw data into actionable insights  
 💻 Skilled in Python, Java, SQL, ML, AI, Data Visualization, Web & Database Development  
@@ -127,15 +127,6 @@
 
 ---
 
-### 📚 **Recent Publications & Achievements**
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=📝+%22Optimizing+ML+Models+for+Edge+Computing%22+-+IEEE+Conference+2024;🏆+Best+Student+Paper+Award+-+Data+Science+Symposium+2024;🎯+95%25+Accuracy+in+Image+Classification+Challenge;📊+Kaggle+Competition+Top+5%25+Finisher" alt="Achievements" />
-</div>
-
-</div>
-
----
-
 ## 🎯 Specialized Skills & Interests
 
 <!-- Enhanced interests section with skill levels and interactive elements -->
@@ -144,11 +135,6 @@
 ### 🧠 **Core Competencies**
 <table align="center" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="250" style="padding: 20px; border: 2px solid rgba(88, 166, 255, 0.3); border-radius: 15px; margin: 10px; background: linear-gradient(135deg, rgba(30, 58, 138, 0.05), rgba(59, 130, 246, 0.05));">
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
-<b style="color: #58A6FF;">Sports Analytics ⚽</b><br>
-<small>Applying ML to football performance analysis</small>
-</td>
 <td align="center" width="250" style="padding: 20px; border: 2px solid rgba(88, 166, 255, 0.3); border-radius: 15px; margin: 10px; background: linear-gradient(135deg, rgba(30, 58, 138, 0.05), rgba(59, 130, 246, 0.05));">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
 <b style="color: #58A6FF;">Algorithm Design 🧠</b><br>
