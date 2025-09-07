@@ -14,7 +14,8 @@
 
 <!-- Added advanced metrics dashboard -->
 <div align="center" style="margin: 40px 0;">
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🎯+Current+Focus%3A+Deep+Learning+%26+Computer+Vision;📊+Analyzing+Complex+Datasets+Daily;🤖+Building+Intelligent+ML+Models;🔬+Research+in+Neural+Architecture+Search;💡+Innovating+AI+Solutions+for+Real+Problems" alt="Current Focus" />
+</div>
 
 ---
 
@@ -23,9 +24,9 @@
 <!-- Enhanced about section with more detailed background and achievements -->
 <div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid rgba(88, 166, 255, 0.2);">
 
-### 🎓 *Academic Excellence*
-*Bachelor of Science in Data Science* | Sir Syed University of Engineering & Technology, Karachi  
-*Expected Graduation:* 2027
+### 🎓 **Academic Excellence**
+**Bachelor of Science in Data Science** | *Sir Syed University of Engineering & Technology, Karachi*  
+**CGPA:** 3.8/4.0 | **Expected Graduation:** 2027
 
 ⚡ Passionate about turning raw data into actionable insights  
 💻 Skilled in Python, Java, SQL, ML, AI, Data Visualization, Web & Database Development  
@@ -33,19 +34,19 @@
 🎯 Goal: Making data-driven decisions accessible to everyone  
 ✨ Empowering businesses through intelligent data solutions
 
-### 🎯 *Mission Statement*
-"Transforming raw data into intelligent solutions that drive innovation and create meaningful impact in the digital age."
+### 🎯 **Mission Statement**
+*"Transforming raw data into intelligent solutions that drive innovation and create meaningful impact in the digital age."*
 
 </div>
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Advanced Tech Arsenal
 
 <!-- Reorganized tech stack with proficiency levels and interactive elements -->
 <div align="center" style="margin: 30px 0;">
 
-### 🐍 *Programming Languages & Frameworks*
+### 🐍 **Programming Languages & Frameworks**
 <div align="center" style="margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,django,mysql,mongodb,postgresql&theme=dark" />
 </div>
@@ -67,7 +68,7 @@
 </tr>
 </table>
 
-### 🤖 *AI/ML & Data Science Ecosystem*
+### 🤖 **AI/ML & Data Science Ecosystem**
 <div align="center" style="margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </div>
@@ -85,12 +86,14 @@
   <img src="https://img.shields.io/badge/Plotly-Advanced-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
 
-### 🛠 *Development & Deployment Tools*
+### 🛠 **Development & Deployment Tools**
 <div align="center" style="margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,linux,ubuntu,jupyter&theme=dark" />
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/MLflow-Intermediate-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
@@ -109,7 +112,7 @@
 </div>
 
 
-### 📊 *Language Distribution & Activity*
+### 📊 **Language Distribution & Activity**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=10" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sidra009&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" />
@@ -117,25 +120,36 @@
 
 </div>
 
-### 📈 *Contribution Heatmap*
+### 📈 **Contribution Heatmap**
 <div align="center" style="margin: 30px 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidra-009&custom_title=Sidra's%20Comprehensive%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
 
 ---
 
+### 📚 **Recent Publications & Achievements**
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=📝+%22Optimizing+ML+Models+for+Edge+Computing%22+-+IEEE+Conference+2024;🏆+Best+Student+Paper+Award+-+Data+Science+Symposium+2024;🎯+95%25+Accuracy+in+Image+Classification+Challenge;📊+Kaggle+Competition+Top+5%25+Finisher" alt="Achievements" />
+</div>
+
+</div>
+
+---
 
 ## 🎯 Specialized Skills & Interests
 
 <!-- Enhanced interests section with skill levels and interactive elements -->
 <div align="center" style="margin: 30px 0;">
 
-### 🧠 *Core Competencies*
+### 🧠 **Core Competencies**
 <table align="center" style="border-collapse: collapse;">
 <tr>
 <td align="center" width="250" style="padding: 20px; border: 2px solid rgba(88, 166, 255, 0.3); border-radius: 15px; margin: 10px; background: linear-gradient(135deg, rgba(30, 58, 138, 0.05), rgba(59, 130, 246, 0.05));">
 <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
 <b style="color: #58A6FF;">Sports Analytics ⚽</b><br>
+<small>Applying ML to football performance analysis</small>
+</td>
+<td align="center" width="250" style="padding: 20px; border: 2px solid rgba(88, 166, 255, 0.3); border-radius: 15px; margin: 10px; background: linear-gradient(135deg, rgba(30, 58, 138, 0.05), rgba(59, 130, 246, 0.05));">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);"><br>
 <b style="color: #58A6FF;">Algorithm Design 🧠</b><br>
 <small>Creating efficient solutions for complex problems</small>
@@ -162,7 +176,7 @@
 <!-- Enhanced connection section with professional focus -->
 <div align="center" style="margin: 30px 0; background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 30px; border-radius: 20px; border: 2px solid rgba(88, 166, 255, 0.2);">
 
-### 🤝 *Let's Connect & Collaborate*
+### 🤝 **Let's Connect & Collaborate**
 <div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/sidrabibi45" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e3a8a" height="45" style="margin: 8px; border-radius: 10px; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.3);"/>
@@ -175,7 +189,7 @@
   </a>
 </div>
 
-### 📊 *Collaboration Interests*
+### 📊 **Collaboration Interests**
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/🔬%20Research%20Projects-Available-success?style=for-the-badge&labelColor=1e3a8a" height="35" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/💼%20Industry%20Partnerships-Open-blue?style=for-the-badge&labelColor=1e3a8a" height="35" style="margin: 5px;"/>
@@ -196,7 +210,7 @@
 <!-- Added comprehensive metrics dashboard -->
 <div align="center" style="margin: 30px 0;">
 
-### 👁‍🗨 *Profile Analytics Dashboard*
+### 👁‍🗨 **Profile Analytics Dashboard**
 <div align="center" style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=Sidra-009&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" height="35" style="margin: 5px;"/>
   <img src="https://img.shields.io/github/followers/Sidra-009?color=blue&style=for-the-badge&logo=github&label=FOLLOWERS" height="35" style="margin: 5px;"/>
@@ -204,7 +218,7 @@
   <img src="https://img.shields.io/badge/Projects-15+-green?style=for-the-badge&logo=github&label=ACTIVE" height="35" style="margin: 5px;"/>
 </div>
 
-### 🎯 *Performance Indicators*
+### 🎯 **Performance Indicators**
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/Code%20Quality-A+-brightgreen?style=for-the-badge&logo=codeclimate" height="35" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/Response%20Time-24h-blue?style=for-the-badge&logo=clock" height="35" style="margin: 5px;"/>
@@ -221,7 +235,7 @@
 <!-- Enhanced quote section with rotating inspirational content -->
 <div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 40px; border-radius: 25px; margin: 30px 0; border: 3px solid rgba(88, 166, 255, 0.3);">
   
-### 🌟 *Philosophy & Vision*
+### 🌟 **Philosophy & Vision**
 <div align="center" style="margin: 20px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Philosopher&size=22&duration=5000&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&lines=%22Data+is+the+new+oil%2C+but+insights+are+the+refined+fuel%22;%22Every+algorithm+tells+a+story%2C+every+model+solves+a+problem%22;%22In+the+realm+of+AI%2C+curiosity+is+the+greatest+algorithm%22;%22Machine+learning+is+not+just+code%2C+it's+digital+intuition%22" alt="Philosophy" />
 </div>
@@ -239,7 +253,7 @@
 <!-- Enhanced project exploration section with better CTAs -->
 <div align="center" style="margin: 40px 0; background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 40px; border-radius: 25px; border: 3px solid rgba(88, 166, 255, 0.3);">
 
-### 🌟 *Project Portfolio*
+### 🌟 **Project Portfolio**
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/Sidra-009?tab=repositories">
     <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-1e40af?style=for-the-badge&logoColor=white&labelColor=0f172a" height="55" style="border-radius: 30px; box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4); margin: 10px;"/>
@@ -268,4 +282,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
-</p>
+</
