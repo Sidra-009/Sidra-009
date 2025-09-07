@@ -264,5 +264,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
 </
 
-### 🐍 Contribution Snake Animation
-![Snake Graph](https://your-image-link.gif)
