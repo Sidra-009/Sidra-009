@@ -111,8 +111,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sidra009&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" /></td>
-  </tr>
+    
 </table>
 
 ### 📈 **Contribution Heatmap**
