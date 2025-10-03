@@ -42,7 +42,7 @@
 
 ### 🐍 **Programming Languages & Frameworks**
 <div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,django,mysql,mongodb,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,django,mysql&theme=dark" />
 </div>
 
 <table align="center">
