@@ -82,7 +82,7 @@
 
 ### 🛠 **Development & Deployment Tools**
 <div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,linux,ubuntu,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu,jupyter&theme=dark" />
 </div>
 
 <div align="center">
