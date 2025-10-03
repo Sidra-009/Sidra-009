@@ -86,8 +86,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a" height="35"/>
-  <img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/MLflow-Intermediate-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0f172a" height="35"/>
   <img src="https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0f172a" height="35"/>
 </div>
