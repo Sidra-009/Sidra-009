@@ -19,7 +19,7 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid rgba(88, 166, 255, 0.2);">
 
 ### 🎓 **Academic Excellence**
-**Bachelor of Science in Data Science** | *Sir Syed University of Engineering & Technology, Karachi*  
+**Bachelor of Science in Data Science** 
 **Expected Graduation:** 2027
 
 ⚡ Passionate about turning raw data into actionable insights  
