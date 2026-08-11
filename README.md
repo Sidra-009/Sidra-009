@@ -156,9 +156,6 @@
 
 ### 🤝 **Let's Connect & Collaborate**
 <div align="center" style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/sidrabibi45" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e3a8a" height="45" style="margin: 8px; border-radius: 10px; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.3);"/>
-  </a>
   <a href="mailto:sidrasaqlain11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Research%20Collaboration-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e3a8a" height="45" style="margin: 8px; border-radius: 10px; box-shadow: 0 4px 15px rgba(234, 67, 53, 0.3);"/>
   </a>
